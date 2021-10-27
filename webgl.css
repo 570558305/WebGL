@@ -1,0 +1,17 @@
+body{
+	margin: 0;
+	overflow: hidden;
+}
+
+#drawing {
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+
+/* change of lights!!
+duration animation*/
+
+
+
+
